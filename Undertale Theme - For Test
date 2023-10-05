@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>( - _ -)</title>
+</head>
+<style>
+    body{
+        background-color: black;
+    }
+</style>
+    
+<body>
+    <h1 style="color: rgb(255, 251, 0); text-align: center; font-size: larger;">
+        *You're filled with...
+    </h1>
+        <div id="dov">
+       <img src="https://pa1.aminoapps.com/6409/eb6e803a5f065bea8f812fb31f06bb2e07f30787_hq.gif"  
+         width="100" height="100">
+        </div>
+
+     <p  style="color: rgb(255, 251, 0); text-align: center; font-size: large;">
+        ...DETERMINATION!
+    </p>
+    <h2>
+        <img src="https://i.pinimg.com/originals/95/49/81/954981aadcc97a87041a0335a5000680.jpg"  
+        width="1320" height="900">
+    </h2>
+</body>
+</html>
